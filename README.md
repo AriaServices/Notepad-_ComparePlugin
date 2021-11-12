@@ -1,4 +1,4 @@
-# Notepad-_ComparePlugin
+# Notepad++_ComparePlugin
 Install Notepad++ Compare plugin
 
 - Download latest plugin from https://github.com/pnedev/compare-plugin/releases/tag/v2.0.0.
